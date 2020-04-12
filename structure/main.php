@@ -3,7 +3,6 @@
 /**
  * Created by PhpStorm.
  * User: Mulla Tasnim
- * Date: 19/10/2019
  * Time: 22:27
  * Purpose: The main structure for every page
  */
