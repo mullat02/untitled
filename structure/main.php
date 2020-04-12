@@ -119,7 +119,7 @@ if (isset($arrCart) && count($arrCart) != 0)
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php $page_title= echo $page_title?></title>
+    <title><?php $page_title=; echo $page_title?></title>
     <link rel="stylesheet" href="http://herokuphpgithub.herokuapp.com//lib/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="http://herokuphpgithub.herokuapp.com//css/site.css" />
     <link rel="stylesheet" href="http://herokuphpgithub.herokuapp.com//css/myStyle.css" />
