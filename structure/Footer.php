@@ -17,7 +17,7 @@ define('HTTP_DIR', 'http://dochyper.unitec.ac.nz/mullat02/QualityBooks_Php/');
         <p class="footer-links">
             <a href="http://dochyper.unitec.ac.nz/mullat02/QualityBooks_Php/index.php">Home</a>
 
-            <a href="http://dochyper.unitec.ac.nz/mullat02/QualityBooks_Php/product/Product.php">Product</a>
+            <a href="http://dochyper.unitec.ac.nz/mullat02/QualityBooks_Php/product/Product.php">Activity</a>
 
             <a href="http://dochyper.unitec.ac.nz/mullat02/QualityBooks_Php/about/About.php">About</a>
 

@@ -12,7 +12,7 @@ if(!isset($_SESSION))
     session_start();
 }
 
-$page_title = 'Home - Quality Books';
+$page_title = 'Home - Online Booking system';
 $page_content = 'Home.php';
 
 include ('structure/Main.php');
