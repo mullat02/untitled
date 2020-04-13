@@ -15,4 +15,4 @@ if(!isset($_SESSION))
 $page_title = 'Home - Quality Books';
 $page_content = 'Home.php';
 
-include ('structure/main.php');
+include ('structure/Main.php');

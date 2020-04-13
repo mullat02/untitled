@@ -1,8 +1,8 @@
 <?php
-
 /**
  * Created by PhpStorm.
  * User: Mulla Tasnim
+ * Date: 19/10/2019
  * Time: 22:27
  * Purpose: The main structure for every page
  */
@@ -78,7 +78,7 @@ else
     $loginLink = '<a href="'.HTTP_DIR.'account/Account.php?page=Login">Log in</a>';
 }
 
-if($email == 'admin@qualitybooks.co.nz'){
+if($email == 'mullat02@myunitec.co.nz'){
     $_SESSION['adminList'] = '
                     <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Admin<span class="caret"></span></a>
@@ -114,11 +114,10 @@ if (isset($arrCart) && count($arrCart) != 0)
 
 ?>
 <!doctype html>
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php $page_title=; echo $page_title?></title>
+
     <link rel="stylesheet" href="http://herokuphpgithub.herokuapp.com//lib/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="http://herokuphpgithub.herokuapp.com//css/site.css" />
     <link rel="stylesheet" href="http://herokuphpgithub.herokuapp.com//css/myStyle.css" />
@@ -172,7 +171,7 @@ if (isset($arrCart) && count($arrCart) != 0)
 
 
 <!--Content area-->
-<div class="container body-content"><?php $page_content =;include ($page_content);?></div>
+<div class="container body-content"></div>
 <br />
 <br />
 <br />
