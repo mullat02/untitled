@@ -70,7 +70,7 @@
 <div class="container">
     <!--Featured Item-->
     <div class="spec">
-        <h3>NEW BOOKS</h3>
+        <h3>Online Booking System</h3>
         <div class="ser-t">
             <b></b>
             <span><i></i></span>
